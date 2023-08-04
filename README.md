@@ -1,23 +1,18 @@
-# Global Supply Chain Strategy Development and Execution
+# eCommerce Website Traffic Analysis and Optimization
 
-## Overview
-This project repository contains the strategies and implementation details of a robust global supply chain management system designed to enhance bottom-line performance by 15%. Our approach leverages innovative data analysis techniques and cross-functional collaboration to streamline operations.
+## Introduction
+This repository documents the comprehensive analysis and subsequent optimization strategies for an eCommerce start-up's website. The focus was on evaluating website traffic sources, enhancing the customer purchase journey, and improving overall site performance and customer satisfaction.
 
 ## Objectives
-- Optimize global supply chain processes through strategic analysis and data-driven solutions.
-- Achieve real-time visibility into supply chain operations with Tableau dashboards.
-- Automate processes using Python scripts to decrease lead times and boost on-time deliveries.
-- Facilitate a 30% cost reduction through effective data mining and value creation.
+- Evaluate traffic sources and performance metrics using MySQL.
+- Enhance customer purchase journey through data-driven analysis.
+- Refine conversion funnels to boost customer satisfaction and sales.
 
-## Tools and Technologies
-- **SAP**: Utilized for comprehensive supply chain management and data analysis.
-- **Advanced Excel**: Employed for data manipulation and financial modeling.
-- **Tableau**: Created interactive dashboards for real-time supply chain visibility.
-- **SQL**: Leveraged for data mining and extracting actionable insights.
-- **Python**: Scripted automation solutions to improve supply chain efficiency.
+## Tools Utilized
+- **MySQL**: For database queries and analyzing website traffic data.
+- **Data Cleaning and Manipulation Tools**: To ensure data quality for analysis.
 
 ## Outcomes
-- 15% improvement in bottom-line performance attributable to optimized supply chain strategies.
-- Reduction of lead times by 20% and a 10% increase in on-time deliveries, enhancing customer satisfaction.
-- Cross-functional team leadership that harnessed SQL and Tableau to realize a 30% cost reduction opportunity.
-
+- Improved understanding of traffic sources and user behavior.
+- Increased website conversion rates including click-through-rate and add-to-cart rate.
+- Enhanced customer satisfaction through a refined purchase journey.
